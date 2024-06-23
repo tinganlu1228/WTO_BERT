@@ -12,5 +12,5 @@ To install the necessary dependencies, run the following commands:
 
 ```bash
 git clone https://github.com/tinganlu1228/WTO_BERT.git
-cd WTO_VADER
+cd WTO_BERT
 pip install -r requirements.txt
